@@ -56,6 +56,8 @@
 #ifndef MPU_6050_H
 #define MPU_6050_H
 
+#define MPU_6050_LIB_VERSION 1.1
+
 #include <Arduino.h>
 #include <Wire.h>
 
